@@ -1,11 +1,11 @@
 specVersion: v2
       meta:
         name: AutoGPT
-        image: 
+        image: project-AutoGPT-project
         description: AutoGPT to build ai agents
         labels: []
         createdOn: "2024-06-06T10:00:00Z"
-        defaultBranch: main
+        defaultBranch: master
       layout:
       - path: code/
         type: code
